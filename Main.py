@@ -1,7 +1,7 @@
-def click()
+def click():
   print("click")
   
-def welcome()
-  print(New Screen)
+def welcome():
+  print("New Screen")
 
  #sdfsdfs
